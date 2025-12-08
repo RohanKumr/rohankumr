@@ -42,6 +42,3 @@ You can also connect with me on LinkedIn.
 
 **Email:** [sayheyrohan@gmail.com ↗](sayheyrohan@gmail.com)  
 **LinkedIn:** [linkedin.com/in/sayheyrohan ↗](https://www.linkedin.com/in/sayheyrohan/)
-
-## Badges
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohankumr" alt="rohankumr" /></a> </p>
